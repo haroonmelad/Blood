@@ -1,2 +1,0 @@
-# Blood
-Web Project Description
